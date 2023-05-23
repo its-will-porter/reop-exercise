@@ -1,2 +1,2 @@
-# reop-exercise
+# repo-exercise
 Coursera repo exercise
